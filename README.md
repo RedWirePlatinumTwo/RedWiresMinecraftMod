@@ -13,6 +13,7 @@ no lol, I just thought of mod ideas in my head and then made it real
 
 #Weapons
 -Lava Bow (Combine a Bow and a lava bucket with a smithing table, Put 3 lava buckets on the top row and 3 arrows on the mid row to craft arrows with a crafting table)
+
 -Water Bow (Same as Lava Bow, but with Water Buckets)
 -Exploding Bow (Combine a Bow and a TNT block with a Smithing table, Combine an arrow and a TNT block to get the arrows)
 -Block-Placing bow (The block placed is based on the last slot of your hotbar, to craft it, you smith a bow and a Dispenser (currently don't know what would be a good recipe for getting a block placing bow)
