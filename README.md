@@ -23,10 +23,10 @@ no lol, I just thought of mod ideas in my head and then made it real
 2. Cooked Cactus (Green Dye is instead crafted like every other dye)
 
 # Shitpost stuff
--Baguette (haha funny long bread, combinable with 2 breads and heals twice as much, as you'd probably expect)
--Uno Reverse Card (Like the thorns enchantment, but funni. Unobtainable in survival cause this would be way too OP. Gives you Regen II and Saturation for 3 seconds everytime you get hit just to attempt fully healing yourself when attacked. Not recommended to use against creepers.)
--gamerule doFunnyVineBoom (plays the vine boom sound effect when damaged.)
--gamerule doKillCreepers (I hate creepers, so I made this so a creeper instantly dies once they target you. If you find this OP, simply don't enable it lol)
+1. Baguette (haha funny long bread, combinable with 2 breads and heals twice as much, as you'd probably expect)
+2. Uno Reverse Card (Like the thorns enchantment, but funni. Unobtainable in survival cause this would be way too OP. Gives you Regen II and Saturation for 3 seconds everytime you get hit just to attempt fully healing yourself when attacked. Not recommended to use against creepers.)
+3. gamerule doFunnyVineBoom (plays the vine boom sound effect when damaged.)
+4. gamerule doKillCreepers (I hate creepers, so I made this so a creeper instantly dies once they target you. If you find this OP, simply don't enable it lol)
 
 # Items + Blocks
 1. Wither Spawn Egg
@@ -41,3 +41,6 @@ no lol, I just thought of mod ideas in my head and then made it real
 3. Withering (Uses the wither rose to brew)
 4. Invincibility (unbrewable in survival for blatantly obvious reasons)
 
+#Crafting Recipes
+1. Green Dye (a cactus block makes 1, combining blue and yellow dye makes 2 (they seriously should've added this by now like come on))
+2. Feathers (White Wool blocks and sticks in the shape of a feather)
