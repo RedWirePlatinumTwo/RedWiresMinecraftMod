@@ -43,4 +43,4 @@ no lol, I just thought of mod ideas in my head and then made it real
 
 #Crafting Recipes
 1. Green Dye (a cactus block makes 1, combining blue and yellow dye makes 2 (they seriously should've added this by now like come on))
-2. Feathers (White Wool blocks and sticks in the shape of a feather)
+2. Feathers (White Wool blocks and sticks in the shape of a feather) [[https://imgur.com/LCob6wE.png]]
