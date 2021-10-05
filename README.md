@@ -12,16 +12,15 @@ no lol, I just thought of mod ideas in my head and then made it real
 # What does this mod have?
 
 #Weapons
--Lava Bow (Combine a Bow and a lava bucket with a smithing table, Put 3 lava buckets on the top row and 3 arrows on the mid row to craft arrows with a crafting table)
-
--Water Bow (Same as Lava Bow, but with Water Buckets)
--Exploding Bow (Combine a Bow and a TNT block with a Smithing table, Combine an arrow and a TNT block to get the arrows)
--Block-Placing bow (The block placed is based on the last slot of your hotbar, to craft it, you smith a bow and a Dispenser (currently don't know what would be a good recipe for getting a block placing bow)
--Real Knife (Unobtainable in Survival, deals 99 damage)
+1. Lava Bow (Combine a Bow and a lava bucket with a smithing table, Put 3 lava buckets on the top row and 3 arrows on the mid row to craft arrows with a crafting table)
+2. Water Bow (Same as Lava Bow, but with Water Buckets)
+3. Exploding Bow (Combine a Bow and a TNT block with a Smithing table, Combine an arrow and a TNT block to get the arrows)
+4. Block-Placing bow (The block placed is based on the last slot of your hotbar, to craft it, you smith a bow and a Dispenser (currently don't know what would be a good recipe for getting a block placing bow)
+5. Real Knife (Unobtainable in Survival, deals 99 damage)
 
 # Foods
--Cooked Egg
--Cooked Cactus (Green Dye is instead crafted like every other dye)
+1. Cooked Egg
+2. Cooked Cactus (Green Dye is instead crafted like every other dye)
 
 # Shitpost stuff
 -Baguette (haha funny long bread, combinable with 2 breads and heals twice as much, as you'd probably expect)
@@ -30,15 +29,15 @@ no lol, I just thought of mod ideas in my head and then made it real
 -gamerule doKillCreepers (I hate creepers, so I made this so a creeper instantly dies once they target you. If you find this OP, simply don't enable it lol)
 
 # Items + Blocks
--Wither Spawn Egg
--Iron Golem Spawn Egg
--Ender Dragon Spawn Egg
--Raw Iron and Raw Iron Block
--Raw Gold and Raw Gold Block (These were added purely because you can get more gold and iron with a Fortune Pickaxe)
+1. Wither Spawn Egg
+2. Iron Golem Spawn Egg
+3. Ender Dragon Spawn Egg
+4. Raw Iron and Raw Iron Block
+5. Raw Gold and Raw Gold Block (These were added purely because you can get more gold and iron with a Fortune Pickaxe)
 
 # Potions (and effects)
--Flying (brewable with a shulker shell)
--Levitation (Use a Fermented Spider Eye and a potion of flying to get this)
--Withering (Uses the wither rose to brew)
--Invincibility (unbrewable in survival for blatantly obvious reasons)
+1. Flying (brewable with a shulker shell)
+2. Levitation (Use a Fermented Spider Eye and a potion of flying to get this)
+3. Withering (Uses the wither rose to brew)
+4. Invincibility (unbrewable in survival for blatantly obvious reasons)
 
