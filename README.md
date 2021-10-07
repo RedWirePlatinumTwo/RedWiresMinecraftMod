@@ -1,1 +1,1 @@
-Click on the wiki option to find out info about my mod
+For info on my mod, go to https://github.com/RedWirePlatinumTwo/RedWiresMinecraftMod/wiki
