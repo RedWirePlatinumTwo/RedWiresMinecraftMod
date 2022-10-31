@@ -1,7 +1,7 @@
 {
   "homepage": "<https://github.com/RedWirePlatinumTwo/RedWiresMinecraftMod>",
   "<mcversion>": {
-    "<modversion>": "https://github.com/RedWirePlatinumTwo/RedWiresMinecraftMod/wiki/Changelog", 
+    "<modversion>": "<https://github.com/RedWirePlatinumTwo/RedWiresMinecraftMod/wiki/Changelog>", 
     // List all versions of your mod for the given Minecraft version, along with their changelogs
     // ...
   },
