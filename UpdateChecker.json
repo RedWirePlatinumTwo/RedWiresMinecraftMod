@@ -6,9 +6,9 @@
     // ...
   },
   "promos": {
-    "<mcversion>-latest": "v3.18.5",
+    "<mcversion>-latest": "v3.18.69",
     // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
-    "<mcversion>-recommended": "v3.18.5",
+    "<mcversion>-recommended": "v3.18.69",
     // Declare the latest "stable" version of your mod for the given Minecraft version
     // ...
   }
