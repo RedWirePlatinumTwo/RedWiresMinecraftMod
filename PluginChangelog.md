@@ -1,4 +1,6 @@
 # Changelog
+# 1.1.1
+- Changed 2024.1 supported version to the latest version
 # 1.1.0
 - Added "string iterator" to the text split procedure block
 - Added "timed loop iterator" for the timed loop procedure block
